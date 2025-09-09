@@ -109,5 +109,6 @@ Here are the connects of the Team
    - [Emmanuel]()
    - [Marvin](https://github.com/mavoochie)
    - [Lisa](https://github.com/lisamswt/)
-Happy building!  Your portfolio is not just a website it's your story, your skills, and your spark.
+
+Happy building! Your portfolio is not just a website it's your story, your skills, and your spark.
 
