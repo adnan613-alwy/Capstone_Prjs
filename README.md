@@ -2,15 +2,15 @@
 
 Welcome to your first web development journey! This project will help you build your own portfolio website using **HTML**, **CSS**, and eventually **JavaScript**. You'll showcase your skills, projects, and personality all while learning how to work with GitHub and modern web tools.
 
-# N/B:: This is your Final project and will determine you graduation.
+# N/B:: This is your Final project and will determine whether graduation.
 
 ---
 
 ## Phase 1: Setup & Forking
 
 1. **Fork the Repository**
-   - Go to [Zablon's Portfolio Repo](https://github.com/Zambagarrah/Capstone_Prjs)
-   - Fork your branch i.e the one with your name **DON'T FORK THE MAIN BRANCH/ SOMEONE ELSE'S BRANCH**.
+   - Go to [This Repo](https://github.com/Zambagarrah/Capstone_Prjs)
+   - Fork your branch i.e the one with your name **DON'T FORK THE MAIN BRANCH/ SOMEONE ELSE'S BRANCH**. (If your name isn't on the branch list contact me)
   
 2. **Clone Your Fork Locally**
    ```bash
@@ -102,5 +102,12 @@ Welcome to your first web development journey! This project will help you build 
   ```Code
   https://your-username.github.io/your-repo-name/
   ```
+You can ask for help if needed.
+Here are the connects of the Team
+   - [Me ](https://github.com/Zambagarrah/)
+   - [Avril](https://github.com/almasi-y)
+   - [Emmanuel]()
+   - [Marvin](https://github.com/mavoochie)
+   - [Lisa](https://github.com/lisamswt/)
 Happy building!  Your portfolio is not just a website it's your story, your skills, and your spark.
 
