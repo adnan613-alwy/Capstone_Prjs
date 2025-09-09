@@ -2,7 +2,7 @@
 
 Welcome to your first web development journey! This project will help you build your own portfolio website using **HTML**, **CSS**, and eventually **JavaScript**. You'll showcase your skills, projects, and personality all while learning how to work with GitHub and modern web tools.
 
-# N/B:: This is your Final project and will determine whether graduation.
+# N/B:: This is your Final project and will determine whether you're actually worthy of graduation.
 
 ---
 
